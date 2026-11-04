@@ -54,29 +54,20 @@ Experiência consolidada no pipeline completo de dados (*Data Wrangling*, ETL, T
 - Consolidação e tratamento de dados dos 4 municípios baianos (2010–2022) via DATASUS e IBGE.
 - Análise de vulnerabilidades territoriais, levantamento epidemiológico (surto de arboviroses) e elaboração de diagnósticos estratégicos.
 
-### 🔬 **Pesquisador de Iniciação Científica (PIBIC/UFOP)**
+### 🔬 **Pesquisador de Iniciação Científica (PIP/UFOP)**
 - **2025–2026:** Modelagem e comparação de 4 métodos de projeção populacional para pequenos domínios (Mariana e Ouro Preto/MG) até 2036.
 - **2024–2025:** Estruturação de pipeline em R para integração de **+11 milhões de registros** (1.542 variáveis) para estudo demográfico e socioeconômico regional.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michelolv&show_icons=true&theme=tokyonight&count_private=true" alt="Michel's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelolv&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" height="175"/>
-</div>
-
----
-
 ## 📫 Conecte-se Comigo
 
-- 🌐 **Portfólio:** [Portfólio em Estatística & Ciência de Dados](https://github.com/michelolv)
+- 🌐 **Portfólio:** [Portfólio em Estatística & Ciência de Dados]([https://github.com/michelolv](https://micheloliveira-portfolio-estatistica.share.connect.posit.cloud/)
 - ✉️ **E-mail:** [michelescreva@gmail.com](mailto:michelescreva@gmail.com) | [michel.lima@aluno.ufop.edu.br](mailto:michel.lima@aluno.ufop.edu.br)
 - 💼 **LinkedIn:** [Michel Lima de Oliveira](https://www.linkedin.com/in/micheldeoliveira)
 - 📄 **Currículo Lattes:** [Acesse aqui](http://lattes.cnpq.br/6841067737566989)
 
 ---
 <p align="center">
-  <i>"In God we trust. All others must bring data."</i> — W. Edwards Deming
+  <i>"Àquela que me deu a vida e me iluminou com a educação: minha mãe, Cleidiana."</i> — Michel Lima de Oliveira
 </p>
