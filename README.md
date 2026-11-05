@@ -13,8 +13,6 @@ Graduando em **Estatística e Ciência de Dados** pela **Universidade Federal de
 
 Minha atuação combina **rigor estatístico/inferencial** e **Modelagem Preditiva** no tratamento de dados complexos e grandes volumes de informação. Tenho forte interesse e foco de desenvolvimento nas áreas de **Ciência de Dados**, **Aprendizado de Máquina (Machine Learning)**, **Inteligência Artificial**, **Mineração de Dados (Data Mining)** e **Análise Exploratória/Multivariada**.
 
-Experiência consolidada no pipeline completo de dados (*Data Wrangling*, ETL, Testes de Hipóteses, Modelagem Estatística, *Data Storytelling* e Construção de Dashboards), atuando em consultorias técnicas internacionais e em pesquisas acadêmicas de alto impacto sociodemográfico.
-
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
