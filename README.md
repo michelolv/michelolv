@@ -20,9 +20,9 @@ Experiência consolidada no pipeline completo de dados (*Data Wrangling*, ETL, T
 ## 🛠️ Tech Stack & Ferramentas
 
 ### **Linguagens & Ecossistema de Análise**
-- **R (Avançado):** *Data Wrangling*, Análise Multivariada, Pacotes `microdatasus`, `sidrar`, `tidyverse`, `R Markdown` e `Quarto`.
-- **Python (Intermediário/Noções):** Integração para *Data Science* e manipulação de dados.
-- **SQL:** Consultas e manipulação de bancos de dados relacionais em integração com ambientes R/Quarto.
+- **R (Avançado):** Pré-processamento e estruturação de dados, análise exploratória, visualização de dados, modelagem estatística, relatórios reprodutíveis (`R Markdown` / `Quatro`) e aplicações interativas (`Shiny`).
+- **Python (Intermediário):** Manipulação e análise de dados (pandas, NumPy) e visualização.
+- **SQL:** Consultas e manipulação de bancos de dados relacionais em integração com ambientes `R/Quarto`.
 - **LaTeX / Overleaf:** Documentação técnica, relatórios reprodutíveis e artigos acadêmicos.
 
 ### **Dashboards & Business Intelligence**
