@@ -39,7 +39,7 @@ Experiência consolidada no pipeline completo de dados (*Data Wrangling*, ETL, T
 - **Aprendizado de Máquina & Mineração de Dados:** Noções teóricas e aplicadas para extensão de métodos exploratórios a modelos preditivos.
 - **Estatística Multivariada & Inferencial:** Análise Fatorial (AF), Análise de Correspondência Simples e Múltipla (ANACOR/MCA), Regressão Logística Ordinal, Testes de Hipóteses (Qui-Quadrado, Fisher c/ Monte Carlo, Mann-Whitney, Kruskal-Wallis) e Correlações Não Paramétricas (Spearman).
 - **Projeções Populacionais & Demografia:** Indicadores multidimensionais (demográficos, socioeconômicos e de saúde) e projeções (modelos geométrico, aritmético, exponencial e logístico).
-- **Tratamento de Big Data Público:** Integração e limpeza de bases multidimensionais massivas (DATASUS, IBGE/SIDRA, CAGED — pipelines de mais de 11 milhões de observações).
+- **Tratamento de Big Data Público:** Integração e limpeza de bases multivariadas (DATASUS, IBGE/SIDRA, CAGED — pipelines de mais de 11 milhões de observações).
 
 ---
 
