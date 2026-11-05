@@ -43,23 +43,6 @@ Experiência consolidada no pipeline completo de dados (*Data Wrangling*, ETL, T
 
 ---
 
-## 🚀 Experiência em Destaque
-
-### 💼 **Consultor Técnico em Estatística** | *Projeto Internacional de Doutoramento (Ecologia & Saúde Ambiental - Portugal)*
-- Construção de pipeline reprodutível de *Data Wrangling* em R para bases de dados multidimensionais biopsicossociais.
-- Validação amostral, aplicação de testes não paramétricos avançados, análise de resíduos padronizados ajustados e Análises de Correspondência.
-- Implementação de modelo de **Regressão Logística Ordinal** (*chances proporcionais*) e relatórios técnicos orientados a *Data Storytelling*.
-
-### 💼 **Consultor Técnico em Estatística** | *Diagnóstico Sociodemográfico Territorial (Bahia)*
-- Consolidação e tratamento de dados dos 4 municípios baianos (2010–2022) via DATASUS e IBGE.
-- Análise de vulnerabilidades territoriais, levantamento epidemiológico (surto de arboviroses) e elaboração de diagnósticos estratégicos.
-
-### 🔬 **Pesquisador de Iniciação Científica (PIP/UFOP)**
-- **2025–2026:** Modelagem e comparação de 4 métodos de projeção populacional para pequenos domínios (Mariana e Ouro Preto/MG) até 2036.
-- **2024–2025:** Estruturação de pipeline em R para integração de **+11 milhões de registros** (1.542 variáveis) para estudo demográfico e socioeconômico regional.
-
----
-
 ## 📫 Conecte-se Comigo
 
 - 🌐 **Portfólio:** [Portfólio em Estatística & Ciência de Dados]([https://github.com/michelolv](https://micheloliveira-portfolio-estatistica.share.connect.posit.cloud/)
